@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SarmalHareketli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb0e3a274bfc45104cac5385ccf9363add69f41a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SarmalHareketli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SarmalHareketli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

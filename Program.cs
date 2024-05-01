@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             ConsoleKeyInfo Hareket; // SarmalOptimizeFinal'den alındı,
-            Console.Write("\t-- Sarmal Matris --\n\n3 veya üzerinde tek sayı girebilirsiniz\nMatrisin boyutu (nxn) n: ");
+            Console.Write("\t-- Sarmal Matris --\n\n3 veya üzerinde tek sayı girebilirsiniz\nA-D ile sarmalı döndürebilirsiniz\nMatrisin boyutu (nxn) n: ");
             int n = Convert.ToInt32(Console.ReadLine());
             Console.Write("Ortaya gelmesini istediniz sayı:");
             int OrtadakiSayi = Convert.ToInt32(Console.ReadLine());

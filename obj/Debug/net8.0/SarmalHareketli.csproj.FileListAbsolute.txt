@@ -12,3 +12,18 @@ C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\Sa
 C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.pdb
 C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.genruntimeconfig.cache
 C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\1.Hafta\SarmalHareketli\obj\Debug\net8.0\ref\SarmalHareketli.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\bin\Debug\net8.0\SarmalHareketli.exe
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\bin\Debug\net8.0\SarmalHareketli.deps.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\bin\Debug\net8.0\SarmalHareketli.runtimeconfig.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\bin\Debug\net8.0\SarmalHareketli.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\bin\Debug\net8.0\SarmalHareketli.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.AssemblyInfoInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.AssemblyInfo.cs
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.csproj.CoreCompileInputs.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.sourcelink.json
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\refint\SarmalHareketli.dll
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.pdb
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\SarmalHareketli.genruntimeconfig.cache
+C:\Users\selcu\Masaüstü\WorkAllDay\EEMuh\II. YY\Görsel Programlama\C#DerstenBağımsızlar\GitHub Eklenebilir Dosyalar\SarmalHareketli\obj\Debug\net8.0\ref\SarmalHareketli.dll
